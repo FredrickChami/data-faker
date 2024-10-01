@@ -15,7 +15,27 @@
     {
         "id": 3,
         "uuid": "a5b9adc6-ccda-4841-944f-234ace0b831a",
-        "name": "Kata",
+        "name": "Mtaa",
+        "status": true
+    }
+]
+"sub-categories":[
+    {
+        "id": 1,
+        "uuid": "d390a764-830d-4a08-8267-99bdb88a72ed",
+        "name": "Diwani",
+        "status": false
+    },
+    {
+        "id": 2,
+        "uuid": "6bb7bf75-fbda-48df-9fa8-0ce20f18b540",
+        "name": "Mwenyekiti",
+        "status": true
+    },
+    {
+        "id": 3,
+        "uuid": "a5b9adc6-ccda-4841-944f-234ace0b811a",
+        "name": "Mjumbe",
         "status": true
     }
 ]
