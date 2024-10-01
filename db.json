@@ -1,19 +1,19 @@
 {
 "categories":[
     {
-        "id": 1
+        "id": 1,
         "uuid": "d390a764-830d-4a08-8267-99bdb88a92ed",
         "name": "Kitongoji",
         "status": false
     },
     {
-        "id": 2
+        "id": 2,
         "uuid": "6bb7bf75-fbda-48df-9fa8-0ce20f18b940",
         "name": "Kijiji",
         "status": true
     },
     {
-        "id": 3
+        "id": 3,
         "uuid": "a5b9adc6-ccda-4841-944f-234ace0b831a",
         "name": "Kata",
         "status": true
