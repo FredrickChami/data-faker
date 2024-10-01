@@ -1,63 +1,21 @@
 {
 "categories":[
     {
-        "id": 8482154355643198,
+        "id": 1
         "uuid": "d390a764-830d-4a08-8267-99bdb88a92ed",
-        "name": "ogre",
+        "name": "Kitongoji",
         "status": false
     },
     {
-        "id": 8954185782786921,
+        "id": 2
         "uuid": "6bb7bf75-fbda-48df-9fa8-0ce20f18b940",
-        "name": "goblin",
+        "name": "Kijiji",
         "status": true
     },
     {
-        "id": 8679425712685866,
+        "id": 3
         "uuid": "a5b9adc6-ccda-4841-944f-234ace0b831a",
-        "name": "troll",
-        "status": true
-    },
-    {
-        "id": 4603813780309389,
-        "uuid": "94e32e26-20e1-430e-809d-212cd9636b08",
-        "name": "ogre",
-        "status": true
-    },
-    {
-        "id": 4046796340578461,
-        "uuid": "746e80ff-5241-4504-8cd3-8701f63d634f",
-        "name": "yeti",
-        "status": true
-    },
-    {
-        "id": 7768472167303181,
-        "uuid": "2432f641-0d44-4cfa-99ba-ce8979761491",
-        "name": "unicorn",
-        "status": false
-    },
-    {
-        "id": 8332077863284411,
-        "uuid": "0a7a5e1a-1843-429d-ba63-f613df6ed4ac",
-        "name": "centaur",
-        "status": false
-    },
-    {
-        "id": 4390980128551873,
-        "uuid": "6d53005a-b8c4-41d1-82e8-3665d23a9a0b",
-        "name": "mermaid",
-        "status": true
-    },
-    {
-        "id": 867295355521976,
-        "uuid": "afb16d9b-4208-4dc9-8210-9d270d6b3e54",
-        "name": "goblin",
-        "status": true
-    },
-    {
-        "id": 4989898191445232,
-        "uuid": "d6a5d352-a670-4e44-8f31-b19b169b13c3",
-        "name": "phoenix",
+        "name": "Kata",
         "status": true
     }
 ]
